@@ -1,11 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Hello+world.%EF%BD%A1%E2%81%A0%E2%97%95%E2%81%A0%E2%80%BF%E2%81%A0%E2%97%95%E2%81%A0%EF%BD%A1)](https://git.io/typing-svg)
-
-## Hi there 👋
-
-##### About me
-- I am a very 🦥.
-- I wanna play play play and play.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ticsea&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ticsea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=%22Easy+to+write%22(no+repetition%2C+clear+logic);%22Assuring+to+use%22(stable%2C+secure);%22worry-free+to+modify%22(no+chain+errors))](https://git.io/typing-svg)
