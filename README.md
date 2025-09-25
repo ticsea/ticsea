@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=%22Easy+to+write%22(no+repetition%2C+clear+logic);%22Assuring+to+use%22(stable%2C+secure);%22worry-free+to+modify%22(no+chain+errors))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Hello+World!)](https://git.io/typing-svg)
